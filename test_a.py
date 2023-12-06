@@ -8,3 +8,8 @@ def test_a1(a):
 def test_a2():
     print("In test_a2")
     assert 1 == 1
+    
+    
+def test_a3():
+    print("In test_a3")
+    pass
