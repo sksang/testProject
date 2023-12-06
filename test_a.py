@@ -7,4 +7,4 @@ def test_a1(a):
     
 def test_a2():
     print("In test changed")
-    assert 1 == 1
+    assert 1 == 2
