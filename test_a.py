@@ -6,5 +6,5 @@ def test_a1(a):
     assert a > 0
     
 def test_a2():
-    print("In test_a2")
+    print("In test changed")
     assert 1 == 1
