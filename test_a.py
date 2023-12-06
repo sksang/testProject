@@ -13,3 +13,6 @@ def test_a2():
 def test_a3():
     print("In test_a3")
     pass
+
+def test_a4():
+    print("In test_a4")
