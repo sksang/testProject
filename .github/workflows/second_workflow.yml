@@ -12,5 +12,5 @@ jobs:
       - run: npm install -g bats
       - run: bats -v
       - run: ls
-      - run: chmod + ./test.sh
+      - run: chmod +x ./test.sh
       - run: test.sh
