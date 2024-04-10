@@ -11,4 +11,4 @@ def test_a2():
 
 def test_a4():
     print("In test_a4")
-    assert True
+    assert 2 > 1
