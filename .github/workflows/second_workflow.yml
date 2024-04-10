@@ -11,3 +11,6 @@ jobs:
           node-version: '20'
       - run: npm install -g bats
       - run: bats -v
+      - run: ls
+      - run: chmod + ./test.sh
+      - run: ./test.sh
